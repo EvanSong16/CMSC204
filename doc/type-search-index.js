@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"PasswordCheckerSTUDENT_Test"},{"p":"<Unnamed>","l":"PasswordCheckerUtility"}];updateSearchResults();
