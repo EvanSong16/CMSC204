@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"CourseDBElement"},{"p":"<Unnamed>","l":"CourseDBManager"},{"p":"<Unnamed>","l":"CourseDBStructure"},{"p":"<Unnamed>","l":"StudentMadeLinkedList.Node"},{"p":"<Unnamed>","l":"StudentMadeLinkedList"}];updateSearchResults();
